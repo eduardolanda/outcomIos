@@ -7,3 +7,15 @@
 //
 
 import Foundation
+
+struct UpcomingClass: Codable{
+    var studentName: String?
+    var date: String
+    var startTime: String?
+    var classType: String?
+    var location: String?
+    var message: String?
+    var price: Float
+    var studentCity: String?
+    
+}
