@@ -551,7 +551,7 @@
                                                         <constraint firstAttribute="height" constant="30" id="Uc6-LJ-L7H"/>
                                                         <constraint firstAttribute="width" constant="93" id="d14-Uf-xum"/>
                                                     </constraints>
-                                                    <state key="normal" title="Shopping">
+                                                    <state key="normal" title="Games">
                                                         <color key="titleColor" red="1" green="0.43137254899999999" blue="0.3803921569" alpha="1" colorSpace="calibratedRGB"/>
                                                     </state>
                                                     <userDefinedRuntimeAttributes>
@@ -619,7 +619,7 @@
                                                         <constraint firstAttribute="width" constant="91" id="jDo-Tz-dVq"/>
                                                         <constraint firstAttribute="width" relation="greaterThanOrEqual" constant="86" id="yZk-zL-OZl"/>
                                                     </constraints>
-                                                    <state key="normal" title="Shopping">
+                                                    <state key="normal" title="Groceries">
                                                         <color key="titleColor" red="1" green="0.43137254899999999" blue="0.3803921569" alpha="1" colorSpace="calibratedRGB"/>
                                                     </state>
                                                     <userDefinedRuntimeAttributes>
